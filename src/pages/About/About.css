@@ -1,0 +1,50 @@
+.about-us {
+    width: 100%;
+    background-color: white;
+}
+.about-img img {
+    padding: 5px;
+    border-radius:100px;
+}
+.about-sub-heading h5 {
+    color: rgb(4, 164, 228);
+}
+.about-content h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.about-content p {
+    margin-bottom: 30px;
+    color: #6e6e6e;
+}
+.about-sub i {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(4, 164, 228);
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+
+    margin-right: 10px;
+}
+.about-sub i h6 {
+    font-size: 18px;
+}
+.btn1 {
+    padding: 12px 40px;
+    background-color: transparent;
+    color: rgb(4, 164, 228);
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+    position: relative;
+    border: 2px solid rgb(4, 164, 228);
+    transition: 0.2s all;
+}
+.btn1:hover {
+    background-color: rgb(4, 164, 228);
+    text-decoration: none;
+    color: white
+
+}
